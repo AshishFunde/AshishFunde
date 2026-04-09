@@ -46,12 +46,7 @@
 ### 📦 E-Store App (Flutter)
 - Full-featured e-commerce app with authentication & cart system  
 - Firebase integration for real-time database  
-- Clean, responsive UI design  
-
-### 🤖 NLP Text Analyzer
-- Text classification & sentiment analysis system  
-- Implemented N-grams, POS tagging & smoothing  
-- Built ML models for predictions  
+- Clean, responsive UI design    
 
 ### 📊 Machine Learning Models
 - Regression & classification models  
@@ -79,7 +74,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: ashishfunde708@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🌐 Portfolio: https://your-portfolio.com  
 
